@@ -1,0 +1,33 @@
+{
+  "name": "woocommerce-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YarinAyash1/woocommerce-react.git"
+  },
+  "keywords": [
+    "woocommerce",
+    "wp",
+    "react"
+  ],
+  "author": "Yarin Ayash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YarinAyash1/woocommerce-react/issues"
+  },
+  "homepage": "https://github.com/YarinAyash1/woocommerce-react#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "next": "^9.3.4",
+    "nodemon": "^2.0.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "woocommerce-api": "^1.5.0"
+  }
+}
